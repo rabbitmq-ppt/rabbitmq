@@ -7,6 +7,7 @@ namespace Publisher
         static void Main(string[] args)
         {
             ConsoleText();
+
             Console.ReadLine();
         }
 
